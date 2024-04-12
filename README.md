@@ -4,7 +4,7 @@ About me:
 [![SpeakerDeck_Badge][speakerdeck_badge]][speakerdeck_link] 
 [![Stack Overflow Badge][stackoverflow_badge]][stackoverflow_link]
 
-Interests:
+❤️:
 
 [![Kotlin Badge][kotlin_badge]][kotlin_link]
 [![Android Badge][android_badge]][android_link]
