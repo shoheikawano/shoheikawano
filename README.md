@@ -1,4 +1,4 @@
-[![X Badge][x_badge]][x_link]
+[![Bluesky_badge][bluesky_badge]][bluesky_link]
 [![SpeakerDeck_Badge][speakerdeck_badge]][speakerdeck_link] 
 [![Stack Overflow Badge][stackoverflow_badge]][stackoverflow_link]
 
@@ -6,22 +6,23 @@
 
 [![Kotlin Badge][kotlin_badge]][kotlin_link]
 [![Android Badge][android_badge]][android_link]
-[![Compose Multiplatform Badge][compose_multiplatform_badge]][compose_multiplatform_link]
 
-<!-- Badges -->
-[x_badge]:https://img.shields.io/badge/-__shoheikawano-555.svg?logo=x&style=flat
-[speakerdeck_badge]: https://img.shields.io/badge/-shoheikawano-555.svg?logo=speaker-deck&style=flat
-[stackoverflow_badge]: https://img.shields.io/badge/-shoheikawano-555.svg?logo=stack-overflow&style=flat
-
-[kotlin_badge]:https://img.shields.io/badge/-Kotlin-555.svg?logo=kotlin&style=flat
+<!-- Android -->
 [android_badge]: https://img.shields.io/badge/-Android-555.svg?logo=android&style=flat
-[compose_multiplatform_badge]: https://img.shields.io/badge/-Compose_Multiplatform-555.svg?logo=jetpack-compose&style=flat
-
-<!-- Links -->
-[x_link]: https://x.com/_shoheikawano
-[speakerdeck_link]: https://speakerdeck.com/shoheikawano
-[stackoverflow_link]: https://stackoverflow.com/users/5449688/shoheikawano
-
 [android_link]: https://developer.android.com
+
+<!-- Bluesky -->
+[bluesky_badge]: https://img.shields.io/badge/-_shoheikawano-555.svg?logo=bluesky&style=flat
+[bluesky_link]: https://bsky.app/profile/shoheikawano.com
+
+<!-- Kotlin -->
+[kotlin_badge]: https://img.shields.io/badge/-Kotlin-555.svg?logo=kotlin&style=flat
 [kotlin_link]: https://kotlinlang.org
-[compose_multiplatform_link]: https://github.com/JetBrains/compose-multiplatform
+
+<!-- Speakerdeck -->
+[speakerdeck_badge]: https://img.shields.io/badge/-shoheikawano-555.svg?logo=speaker-deck&style=flat
+[speakerdeck_link]: https://speakerdeck.com/shoheikawano
+
+<!-- Stackoverflow -->
+[stackoverflow_badge]: https://img.shields.io/badge/-shoheikawano-555.svg?logo=stack-overflow&style=flat
+[stackoverflow_link]: https://stackoverflow.com/users/5449688/shoheikawano
